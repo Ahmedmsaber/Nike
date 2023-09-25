@@ -7,7 +7,7 @@
 <h3 align="center">FullStack developer from Egypt</h3>
 
 <h3 align="left">Project Preview </h3>
-<a href="https://ahmedmsaber.github.io/Nike"target="blank"> Click Here </a>
+<a href="https://nike-amber-sigma.vercel.app"target="blank" class="background: blue"> Click Here </a>
 
 <img align="center" src="./site.png" alt="jake_coding" height="800" width="800" />
 
